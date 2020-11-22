@@ -7,8 +7,8 @@ init()
 
 ##CONST
 _API_ENDPOINT: str = "https://api.dns.constellix.com/"
-_API_KEY = "735212a2-40cc-4a4e-8118-d481e96a4b18"
-_API_SECRET_KEY = "0d1f5bd9-7055-4113-ba34-bdb2eb2ab4f6"
+_API_KEY = ""
+_API_SECRET_KEY = ""
 _GET_ALL_DOMAINS_LINK: str = "v1/domains?offset=0&sort=name&order=asc"
 _TTL: int = 180
 
